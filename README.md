@@ -1,5 +1,11 @@
 # Cane
 
+## Important
+
+This is a hack/patched version of cane for checking on gender words.
+I've changed the defaults to just run the Gender Check.
+If that's not what you want, probably don't install this version.
+
 Fails your build if code quality thresholds are not met.
 
 > Discipline will set you free.
